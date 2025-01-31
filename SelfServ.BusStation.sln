@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfServ.BusStation", "SelfServ.BusStation\SelfServ.BusStation.csproj", "{7FC6A3C9-8816-4A66-9693-5E77F96E2E24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelfServ.BusStation", "SelfServ.BusStation\SelfServ.BusStation.csproj", "{7FC6A3C9-8816-4A66-9693-5E77F96E2E24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfServ.BusStation.TripService.Domain", "SelfServ.BusStation.TripService.Domain\SelfServ.BusStation.TripService.Domain.csproj", "{FC8672CE-0DDE-4D90-B07D-07C51DD5A27D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelfServ.BusStation.TripService.Domain", "SelfServ.BusStation.TripService.Domain\SelfServ.BusStation.TripService.Domain.csproj", "{FC8672CE-0DDE-4D90-B07D-07C51DD5A27D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfServ.BusStation.Application", "SelfServ.BusStation.Application\SelfServ.BusStation.Application.csproj", "{F939A4FF-BB18-42E9-ABCA-F54C8BCD1F2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelfServ.BusStation.TripService.Application", "SelfServ.BusStation.Application\SelfServ.BusStation.TripService.Application.csproj", "{F939A4FF-BB18-42E9-ABCA-F54C8BCD1F2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
