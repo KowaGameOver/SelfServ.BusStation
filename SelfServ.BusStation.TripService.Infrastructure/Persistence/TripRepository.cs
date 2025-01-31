@@ -1,5 +1,5 @@
-﻿using SelfServ.BusStation.Application.Interfaces;
-using SelfServ.BusStation.TripService.Domain.Entities;
+﻿using SelfServ.BusStation.TripService.Domain.Entities;
+using SelfServ.BusStation.TripService.Application.Interfaces;
 
 namespace SelfServ.BusStation.TripService.Infrastructure.Persistence
 {

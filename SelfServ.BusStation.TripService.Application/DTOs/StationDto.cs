@@ -1,4 +1,4 @@
-﻿namespace SelfServ.BusStation.Application.DTOs
+﻿namespace SelfServ.BusStation.TripService.Application.DTOs
 {
     public class StationDto
     {

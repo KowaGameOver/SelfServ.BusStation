@@ -8,11 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SelfServ.BusStation.Application\SelfServ.BusStation.TripService.Application.csproj" />
+    <Folder Include="Persistence\Configurations\" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Persistence\Configurations\" />
+    <ProjectReference Include="..\SelfServ.BusStation.TripService.Application\SelfServ.BusStation.TripService.Application.csproj" />
   </ItemGroup>
 
 </Project>

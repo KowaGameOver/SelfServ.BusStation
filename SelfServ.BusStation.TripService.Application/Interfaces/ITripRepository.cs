@@ -1,6 +1,6 @@
 ﻿using SelfServ.BusStation.TripService.Domain.Entities;
 
-namespace SelfServ.BusStation.Application.Interfaces
+namespace SelfServ.BusStation.TripService.Application.Interfaces
 {
     public interface ITripRepository
     {

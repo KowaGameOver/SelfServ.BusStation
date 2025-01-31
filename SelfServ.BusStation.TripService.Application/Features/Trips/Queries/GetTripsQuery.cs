@@ -1,6 +1,6 @@
 ﻿using MediatR;
-using SelfServ.BusStation.Application.DTOs;
-using SelfServ.BusStation.Application.Interfaces;
+using SelfServ.BusStation.TripService.Application.DTOs;
+using SelfServ.BusStation.TripService.Application.Interfaces;
 
 namespace SelfServ.BusStation.Application.Features.Trips.Queries
 {

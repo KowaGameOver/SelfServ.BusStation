@@ -1,4 +1,4 @@
-﻿using SelfServ.BusStation.Application.DTOs;
+﻿using SelfServ.BusStation.TripService.Application.DTOs;
 
 namespace SelfServ.BusStation.TripService.Application.Interfaces
 {

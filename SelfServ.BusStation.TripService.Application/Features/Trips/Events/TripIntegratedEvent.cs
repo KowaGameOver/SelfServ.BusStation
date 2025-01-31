@@ -1,5 +1,5 @@
 ﻿using MediatR;
-using SelfServ.BusStation.Application.DTOs;
+using SelfServ.BusStation.TripService.Application.DTOs;
 using SelfServ.BusStation.TripService.Application.Interfaces;
 
 namespace SelfServ.BusStation.TripService.Application.Features.Trips.Events
