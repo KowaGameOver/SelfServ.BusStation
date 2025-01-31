@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelfServ.BusStation.TripSer
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelfServ.BusStation.TripService.Application", "SelfServ.BusStation.Application\SelfServ.BusStation.TripService.Application.csproj", "{F939A4FF-BB18-42E9-ABCA-F54C8BCD1F2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfServ.BusStation.TripService.Infrastructure", "SelfServ.BusStation.TripService.Infrastructure\SelfServ.BusStation.TripService.Infrastructure.csproj", "{CAB26FB0-7882-4E36-BA96-6D849FA1FCF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F939A4FF-BB18-42E9-ABCA-F54C8BCD1F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F939A4FF-BB18-42E9-ABCA-F54C8BCD1F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F939A4FF-BB18-42E9-ABCA-F54C8BCD1F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB26FB0-7882-4E36-BA96-6D849FA1FCF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB26FB0-7882-4E36-BA96-6D849FA1FCF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB26FB0-7882-4E36-BA96-6D849FA1FCF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB26FB0-7882-4E36-BA96-6D849FA1FCF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
