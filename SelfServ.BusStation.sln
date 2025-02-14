@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelfServ.BusStation", "Self
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelfServ.BusStation.TripService.Domain", "SelfServ.BusStation.TripService.Domain\SelfServ.BusStation.TripService.Domain.csproj", "{FC8672CE-0DDE-4D90-B07D-07C51DD5A27D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfServ.BusStation.TripService.Infrastructure", "SelfServ.BusStation.TripService.Infrastructure\SelfServ.BusStation.TripService.Infrastructure.csproj", "{CAB26FB0-7882-4E36-BA96-6D849FA1FCF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelfServ.BusStation.TripService.Infrastructure", "SelfServ.BusStation.TripService.Infrastructure\SelfServ.BusStation.TripService.Infrastructure.csproj", "{CAB26FB0-7882-4E36-BA96-6D849FA1FCF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfServ.BusStation.TripService.Application", "SelfServ.BusStation.TripService.Application\SelfServ.BusStation.TripService.Application.csproj", "{5E1BF582-1000-4160-8EF5-E0B32D6ECF61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelfServ.BusStation.TripService.Application", "SelfServ.BusStation.TripService.Application\SelfServ.BusStation.TripService.Application.csproj", "{5E1BF582-1000-4160-8EF5-E0B32D6ECF61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfServ.BusStation.Shared", "SelfServ.BusStation.Shared\SelfServ.BusStation.Shared.csproj", "{32D01AD1-F3F3-417E-94AE-4DDA127270D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{5E1BF582-1000-4160-8EF5-E0B32D6ECF61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E1BF582-1000-4160-8EF5-E0B32D6ECF61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E1BF582-1000-4160-8EF5-E0B32D6ECF61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32D01AD1-F3F3-417E-94AE-4DDA127270D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D01AD1-F3F3-417E-94AE-4DDA127270D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D01AD1-F3F3-417E-94AE-4DDA127270D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D01AD1-F3F3-417E-94AE-4DDA127270D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
